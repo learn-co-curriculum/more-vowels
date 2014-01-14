@@ -32,3 +32,11 @@ def vowels_with_case(letter)
     false
   end
 end
+
+def vowels_with_if_single_line(letter)
+  true if letter == "a" || letter == "e" || letter == "i" || letter == "o" || letter == "u"
+end
+
+def vowels_with_no_if_or_case(letter)
+  letter == "a" || letter == "e" || letter == "i" || letter == "o" || letter == "u"
+end
