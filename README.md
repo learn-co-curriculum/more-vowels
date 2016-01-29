@@ -27,4 +27,4 @@ For the purposes of this exercise, we are assuming the vowels are `a, e, i, o, a
 *Hint: remember that every line of Ruby code has a return value, and that a method will return the result of the last operation.*
 
 
-<a href='https://learn.co/lessons/more-vowels' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/more-vowels' title='More Vowels'>More Vowels</a> on Learn.co and start learning to code for free.</p>
